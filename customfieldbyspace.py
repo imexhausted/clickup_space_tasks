@@ -6,7 +6,7 @@ import re
 
 space_id = "44505211"
 
-api_token = 'pk_44428424_G1QVCPF98EA8BYPE6UIIYS8YOQL2WQSF'
+api_token = ''
 
 headers_values = {
   "Content-Type": "application/json",
